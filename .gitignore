@@ -1,0 +1,7 @@
+# Exclude hidden OS files.
+.DS_Store
+._*
+Thumbs.db
+
+# Ignore Development tool files.
+.idea
